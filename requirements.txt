@@ -1,0 +1,2 @@
+# stdlib only — Python 3.11+
+# No dependencies. The whole point is the loop, not a model call.
